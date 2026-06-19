@@ -1,1 +1,1 @@
-Sample per la composita del Roma.exe
+Rules are in Rules.md file.
