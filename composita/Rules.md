@@ -11,7 +11,6 @@ _General rules:_
  - You have 2 hours
  - Max 2 MB (2097152 Bytes)
  - Send to gecco@napodano.com with subject "Composita" with your name and the title track in the body of e-mail
- - I (Gecco) am the judge (corruptible)
 
 
 > Gecco / YFC / FDS
