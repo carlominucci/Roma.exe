@@ -1,4 +1,6 @@
 # Roma.exe
-Roba per il Roma-exe (demo party)
+Sample for composita at Roma.exe
+
+Read Rules.md inside /sample/
 
 https://roma-exe.com/
